@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/astaxie/beego/session"
+	"github.com/r0123r/beego-session-hredis/session"
 
 	"github.com/go-redis/redis"
 )
